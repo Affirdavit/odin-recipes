@@ -1,0 +1,21 @@
+h1 {
+    background-color: #aec6cf;
+    color: #1e1e1e;
+}
+
+h2 {
+    background-color: beige;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+}
+
+.strong-word {
+    color: red;
+}
